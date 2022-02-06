@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd dev/deploy-test
+cd /home/ubuntu/dev/
 
-sudo yarn install
+ls
