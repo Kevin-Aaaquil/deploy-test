@@ -13,7 +13,7 @@ import config from "./config";
     .use(express.urlencoded({ extended: true }));
 
     app.get("/", (req, res) => {
-        res.send('it works');
+        res.send('<h1>Time for CI/CD</h1>');
     });
 
   const port = config.PORT;
