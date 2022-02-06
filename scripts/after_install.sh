@@ -1,4 +1,5 @@
 #!/bin/bash
 
-yarn install
-yarn build
+mkdir /home/ubuntu/dev/deploy-test
+cd /home/ubuntu/dev/deploy-test
+ls
