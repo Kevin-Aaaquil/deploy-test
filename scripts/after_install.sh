@@ -1,5 +1,4 @@
 #!/bin/bash
 
-cd /home/ubuntu/dev/
-
-ls
+yarn install
+yarn build
